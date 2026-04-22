@@ -60,7 +60,7 @@ We adhere to **Human-in-the-Loop**: AI handles evaluation and preparation; human
 | :--- | :--- | :--- |
 | **核心驱动** | Prompts (依赖 Claude Code) | **Python 代码** (通用逻辑) |
 | **数据存储** | Markdown / TSV | **SQLite** (结构化 + 关联查询) |
-| **平台适配** | Greenhouse / Ashby (海外) | **BOSS 直聘 / 智联 / 前程无忧** (国内) |
+| **平台适配** | Greenhouse / Ashby (海外) | **BOSS / 智联 / LinkedIn / 领英** (全球+国内) |
 | **面试辅导** | ❌ | ✅ 话术生成 + 模拟面试 + 复盘 |
 | **依赖环境** | 仅限 Claude Code 终端 | **任何 Python 环境** + AI 助理 |
 | **评分体系** | A-F (Prompt 判断) | **8 维度加权算法** (可量化) |

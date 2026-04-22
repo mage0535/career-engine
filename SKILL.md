@@ -220,7 +220,7 @@ prediction = coach.predict_interview_topics(1, "JD文本", "technical")
 |------|-----------|---------------|
 | 核心架构 | Claude Code 专用 prompts | 通用 Python 库 |
 | 数据存储 | Markdown + TSV | SQLite (12 表 + 索引) |
-| 平台适配 | Greenhouse/Ashby/Lever | BOSS/智联/前程无忧/本地 |
+| 平台适配 | Greenhouse/Ashby/Lever | BOSS/智联/前程无忧/LinkedIn/领英 |
 | 评分维度 | 10 维度 (未公开权重) | 8 维度 (公开权重) |
 | 依赖 | Claude Code + Playwright | 零依赖 (纯 Python 标准库) |
 | 分享性 | 需 Claude Code 环境 | 任何 Python 环境可用 |

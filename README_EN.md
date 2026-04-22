@@ -54,7 +54,7 @@ This project deconstructs the core methodology of [career-ops](https://github.co
 | :--- | :--- | :--- |
 | **Core Driver** | Prompts (Depends on Claude Code) | **Python Code** (Universal Logic) |
 | **Data Storage** | Markdown / TSV | **SQLite** (Structured + Relational) |
-| **Platform Adapt** | Greenhouse / Ashby (Overseas) | **BOSS Zhipin / Zhilian / 51job** (China) |
+| **Platform Adapt** | Greenhouse / Ashby (Overseas) | **BOSS / Zhilian / LinkedIn** (Global + China) |
 | **Interview Coach** | ❌ | ✅ Scripts + Mock Interviews + Review |
 | **Dependencies** | Claude Code Terminal Only | **Any Python Env** + AI Agents |
 | **Scoring System** | A-F (Prompt Judgment) | **8-Dim Weighted Algo** (Quantifiable) |
