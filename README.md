@@ -1,6 +1,8 @@
-# 🎯 Career Engine - Enterprise Job Search Automation System
+# 🎯 Career Engine - 智能求职自动化系统
 
 <div align="center">
+
+[English Documentation](README_EN.md) | [中文文档](README.md)
 
 **CN**: 基于 career-ops 重建的求职决策引擎。集成 A-F 岗位评分、STAR+R 简历构建、JD 缺口分析、全场景面试辅导及投递追踪。零依赖架构，精准过滤噪音，锁定高价值机会。
 
